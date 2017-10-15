@@ -1,5 +1,5 @@
 
-![Image of Child](https://zepolitat.github.com/CoRL2017/Motivation.pdf)
+![Image of Child](./Motivation.pdf)
 
 
 Coming up soon...
