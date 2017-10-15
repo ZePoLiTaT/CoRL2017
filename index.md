@@ -1,6 +1,9 @@
-Video coming up soon...
+
+<center>Video coming up soon...</center>
 
 ![Image of Child](./Motivation.jp2)
 
 <!-- HTML Credit Code for Can Stock Photo -->
-<a href="http://www.canstockphoto.com">(c) Can Stock Photo / Paha_L</a>
+<div style="text-align: right; font-size: small;"> 
+   <a href="http://www.canstockphoto.com">(c) Can Stock Photo / Paha_L</a>
+</div>
