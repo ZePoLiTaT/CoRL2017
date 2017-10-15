@@ -1,5 +1,5 @@
 
-<center>Video coming up soon...</center>
+<p align="center">Video coming up soon...</p>
 
 ![Image of Child](./Motivation.jp2)
 
