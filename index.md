@@ -1,5 +1,5 @@
 
-<p align="center">Video and more info coming up soon!
+<p align="center">Paper, video and more info coming up soon!
 
 ![motivation](./Motivation.jpg)
 
