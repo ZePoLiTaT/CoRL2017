@@ -1,8 +1,9 @@
 
-<p align="center">Video and more info coming up soon!</p>
+<p align="center">Video and more info coming up soon!
 
-![motivation](./Motivation.jpg){: .align-center}
+![motivation](./Motivation.jpg)
 
 <!-- HTML Credit Code for Can Stock Photo -->
-###### <a href="http://www.canstockphoto.com">(c) Can Stock Photo / Paha_L</a>
+<sub><a href="http://www.canstockphoto.com">(c) Can Stock Photo / Paha_L</a></sub>
 
+</p>
